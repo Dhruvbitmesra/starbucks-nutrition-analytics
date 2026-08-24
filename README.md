@@ -41,6 +41,9 @@ This project answers questions such as:
 
 ---
 
+
+
+
 ## 📂 Dataset Features
 
 The dataset contains Starbucks beverage information along with nutritional attributes such as:
@@ -65,7 +68,28 @@ The dataset contains Starbucks beverage information along with nutritional attri
 - Caffeine
 
 ---
+## 📊 Power BI Dashboard
 
+The Power BI dashboard provides an interactive overview of Starbucks beverage nutritional data and visualizes key insights from the analysis.
+
+### Dashboard Preview
+
+![Starbucks Power BI Dashboard](assets/powerbi_dashboard.png)
+
+### Dashboard Highlights
+
+- Total Beverage Count
+- Average Calories
+- Average Sugar
+- Average Caffeine
+- Beverage Category Distribution
+- Average Calories by Beverage Category
+- Average Caffeine by Beverage Category
+- Top 5 Highest-Calorie Beverages
+- Protein Range Filter
+- Beverage Preparation Filter
+
+- 
 ## 🔄 Project Workflow
 
 ```text
